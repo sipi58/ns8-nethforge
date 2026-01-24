@@ -3,7 +3,6 @@
   "description": {
     "en": "Firebird 3 is an open source SQL relational database management system.",
     "it": "Firebird 3 è un sistema di gestione di database relazionali SQL open source.",
-    "hu": "A Firebird 3 egy nyílt forráskódú SQL relációs adatbázis-kezelő rendszer."
   },
   "categories": [
     "database"
