@@ -1,1 +1,24 @@
-
+{
+  "name": "Firebird",
+  "description": {
+    "en": "Firebird is an open source SQL relational database management system.",
+    "it": "Firebird è un sistema di gestione di database relazionali SQL open source.",
+    "hu": "A Firebird egy nyílt forráskódú SQL relációs adatbázis-kezelő rendszer."
+  },
+  "categories": [
+    "security",
+    "collaboration"
+  ],
+  "authors": [
+    {
+      "name": "sipi58",
+      "email": "sterbin9@gmail.com"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://www.firebirdsql.org/en/devel-docs/",
+    "bug_url": "",
+    "code_url": "https://github.com/sipi58/ns8-firebird"
+  },
+  "source": ""
+}
