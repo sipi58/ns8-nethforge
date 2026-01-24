@@ -18,5 +18,5 @@
     "bug_url": "",
     "code_url": "https://github.com/sipi58/ns8-firebird"
   },
-  "source": ""
+  "source": "ghcr.io/nethserver/mariadb"
 }
