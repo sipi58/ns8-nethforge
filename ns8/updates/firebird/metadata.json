@@ -1,0 +1,22 @@
+{
+  "name": "Firebird",
+  "description": {
+    "en": "Firebird 3 is an open source SQL relational database management system.",
+    "it": "Firebird 3 è un sistema di gestione di database relazionali SQL open source."
+  },
+  "categories": [
+    "database"
+  ],
+  "authors": [
+    {
+      "name": "sipi58",
+      "email": "sterbin9@gmail.com"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://www.firebirdsql.org/en/devel-docs/",
+    "bug_url": "https://github.com/NethServer/dev",
+    "code_url": "https://github.com/sipi58/ns8-firebird"
+  },
+  "source": "ghcr.io/sipi58/firebird"
+}
